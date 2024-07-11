@@ -1,0 +1,13 @@
+bdpy==0.19
+einops==0.8.0
+faiss_gpu==1.7.2
+h5py==3.10.0
+numpy==1.25.2
+packaging==24.1
+pandas==2.2.2
+Pillow==10.4.0
+timm==0.9.12
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.66.1
+transformers==4.35.2
